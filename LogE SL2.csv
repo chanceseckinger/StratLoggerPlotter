@@ -1,0 +1,136 @@
+SectionName,BedNum,lith,lithName,thickness,BedID,Note,PictureName,base,top
+SL2.csv,1,2,other,23,a1,calcilutite,,0,0.23
+SL2.csv,2,0,mud,45,,,,0.23,0.68
+SL2.csv,3,2,other,25,a2,calcilutite broken up,,0.68,0.93
+SL2.csv,4,0,mud,44,,,,0.93,1.37
+SL2.csv,5,1,sand,3,,,,1.37,1.4
+SL2.csv,6,0,mud,13,,,,1.4,1.53
+SL2.csv,7,1,sand,6,,,,1.53,1.59
+SL2.csv,8,0,mud,26,,,,1.59,1.85
+SL2.csv,9,1,sand,5,,,,1.85,1.9
+SL2.csv,10,0,mud,9,,,,1.9,1.99
+SL2.csv,11,1,sand,10,a3,not sure it's a3 ,,1.99,2.09
+SL2.csv,12,0,mud,30,,,,2.09,2.39
+SL2.csv,13,1,sand,5,,,,2.39,2.44
+SL2.csv,14,0,mud,5,,,,2.44,2.49
+SL2.csv,15,1,sand,3,a4,,,2.49,2.52
+SL2.csv,16,0,mud,39,,,,2.52,2.91
+SL2.csv,17,1,sand,6,,thickens to east ,,2.91,2.97
+SL2.csv,18,0,mud,14,,,,2.97,3.11
+SL2.csv,19,1,sand,6,,,,3.11,3.17
+SL2.csv,20,0,mud,9,,,,3.17,3.26
+SL2.csv,21,1,sand,20,a5,ripples with mud interbeds or drapes,,3.26,3.46
+SL2.csv,22,0,mud,48,,inclined shaly unit,,3.46,3.94
+SL2.csv,23,2,other,39,a6,calcilutite ,,3.94,4.33
+SL2.csv,24,0,mud,28,,inclined shaly unit ,,4.33,4.61
+SL2.csv,25,0,mud,234,,,,4.61,6.95
+SL2.csv,26,1,sand,9,,detached swirly rippled unit with folds and convoluted lam ,,6.95,7.04
+SL2.csv,27,0,mud,5,,,,7.04,7.09
+SL2.csv,28,1,sand,5,,,,7.09,7.14
+SL2.csv,29,0,mud,25,,,,7.14,7.39
+SL2.csv,30,1,sand,1,,,,7.39,7.4
+SL2.csv,31,0,mud,9,,,,7.4,7.49
+SL2.csv,32,1,sand,5,,discontinuous ,,7.49,7.54
+SL2.csv,33,0,mud,117,,some thin sands in hrre,,7.54,8.71
+SL2.csv,34,1,sand,22,a7,wierd bed,,8.71,8.93
+SL2.csv,35,0,mud,7,,,,8.93,9
+SL2.csv,36,1,sand,2,,may be top of a7 ,,9,9.02
+SL2.csv,37,0,mud,63,,,,9.02,9.65
+SL2.csv,38,1,sand,4,,,,9.65,9.69
+SL2.csv,39,0,mud,14,,,,9.69,9.83
+SL2.csv,40,1,sand,4,,,,9.83,9.87
+SL2.csv,41,0,mud,47,,,,9.87,10.34
+SL2.csv,42,2,other,7,a8 ,calcilutite ,,10.34,10.41
+SL2.csv,43,0,mud,115,,,,10.41,11.56
+SL2.csv,44,1,sand,16,b1 ,,,11.56,11.72
+SL2.csv,45,0,mud,6,,,,11.72,11.78
+SL2.csv,46,1,sand,14,b2,,,11.78,11.92
+SL2.csv,47,0,mud,6,,,,11.92,11.98
+SL2.csv,48,1,sand,16,b3,,,11.98,12.14
+SL2.csv,49,0,mud,5,,,,12.14,12.19
+SL2.csv,50,1,sand,12,b4,,,12.19,12.31
+SL2.csv,51,0,mud,53,,tiny sands in here,,12.31,12.84
+SL2.csv,52,1,sand,8,b5,,,12.84,12.92
+SL2.csv,53,0,mud,110,,,,12.92,14.02
+SL2.csv,54,1,sand,35,b6,,,14.02,14.37
+SL2.csv,55,0,mud,11,,,,14.37,14.48
+SL2.csv,56,1,sand,16,a7,,,14.48,14.64
+SL2.csv,57,0,mud,16,,,,14.64,14.8
+SL2.csv,58,1,sand,5,a8,,,14.8,14.85
+SL2.csv,59,0,mud,18,,,,14.85,15.03
+SL2.csv,60,1,sand,18,,pinches out to east and lots of thickness change to west ,,15.03,15.21
+SL2.csv,61,0,mud,20,,,,15.21,15.41
+SL2.csv,62,2,other,2,,ash green color ,GrandVallee4 .csv_62,15.41,15.43
+SL2.csv,63,0,mud,12,,,,15.43,15.55
+SL2.csv,64,1,sand,6,,,,15.55,15.61
+SL2.csv,65,0,mud,9,,,,15.61,15.7
+SL2.csv,66,1,sand,10,b9,,,15.7,15.8
+SL2.csv,67,0,mud,3,,,,15.8,15.83
+SL2.csv,68,1,sand,17,b10,,,15.83,16
+SL2.csv,69,0,mud,13,,one small sand near top,,16,16.13
+SL2.csv,70,1,sand,10,b11,,,16.13,16.23
+SL2.csv,71,0,mud,6,,,,16.23,16.29
+SL2.csv,72,1,sand,45,b12,,,16.29,16.74
+SL2.csv,73,0,mud,42,,,,16.74,17.16
+SL2.csv,74,1,sand,5,b13,,GrandVallee4 .csv_74,17.16,17.21
+SL2.csv,75,0,mud,6,,,,17.21,17.27
+SL2.csv,76,1,sand,3,,,,17.27,17.3
+SL2.csv,77,0,mud,16,,,,17.3,17.46
+SL2.csv,78,1,sand,8,,sand mud mixture chaos, photo may be upside down . water in photo at base of bed,17.46,17.54
+SL2.csv,79,0,mud,31,,,,17.54,17.85
+SL2.csv,80,1,sand,1,,,,17.85,17.86
+SL2.csv,81,0,mud,107,,,,17.86,18.93
+SL2.csv,1,1,sand,18,,lower Sandy part, lots of mud clasts or inclined shale-sand couplets,18.93,19.11
+SL2.csv,2,0,mud,5,,,,19.11,19.16
+SL2.csv,3,1,sand,10,,nice flutes,,19.16,19.26
+SL2.csv,4,0,mud,6,,,,19.26,19.32
+SL2.csv,5,1,sand,14,b15,,,19.32,19.46
+SL2.csv,6,0,mud,8,,,,19.46,19.54
+SL2.csv,7,1,sand,8,b15.1 I think,,,19.54,19.62
+SL2.csv,8,0,mud,7,,,,19.62,19.69
+SL2.csv,9,1,sand,8,,,,19.69,19.77
+SL2.csv,10,0,mud,7,,,,19.77,19.84
+SL2.csv,11,1,sand,10,,,,19.84,19.94
+SL2.csv,12,0,mud,19,,,,19.94,20.13
+SL2.csv,13,1,sand,15,b15.3,,,20.13,20.28
+SL2.csv,14,0,mud,11,,,,20.28,20.39
+SL2.csv,15,1,sand,17,b16,,,20.39,20.56
+SL2.csv,16,0,mud,31,,,,20.56,20.87
+SL2.csv,17,1,sand,41,c1 base bed,,,20.87,21.28
+SL2.csv,18,0,mud,2,,very discontinuous ,,21.28,21.3
+SL2.csv,19,1,sand,53,c1 upper,calcilutite at the top here, is this a weird dunfermline on top or a bunch of clasts?,21.3,21.83
+SL2.csv,20,2,other,20,,calcilutite ,,21.83,22.03
+SL2.csv,21,0,mud,20,,,,22.03,22.23
+SL2.csv,22,1,sand,10,c3,bipartite bed,,22.23,22.33
+SL2.csv,23,0,mud,23,,,,22.33,22.56
+SL2.csv,24,1,sand,42,c4,extreme variability here, where we measured is a thin sand and above is mud clasts cgl and muddy sand. 10 m west this turns into three thin sands and then another 20 m west goes back to a thick sand with mud clasts ,22.56,22.98
+SL2.csv,25,0,mud,46,,photo is of c4 below, finger on the bed top,22.98,23.44
+SL2.csv,26,1,sand,6,,,,23.44,23.5
+SL2.csv,27,0,mud,10,,,,23.5,23.6
+SL2.csv,28,1,sand,12,c5,good flutes ,lukezanetop.csv_28,23.6,23.72
+SL2.csv,29,0,mud,37,,thin silt near top of interval ,,23.72,24.09
+SL2.csv,30,1,sand,14,,unnamdd bipartite bed,,24.09,24.23
+SL2.csv,31,0,mud,32,,,,24.23,24.55
+SL2.csv,32,1,sand,3,c6,,,24.55,24.58
+SL2.csv,33,0,mud,55,,,,24.58,25.13
+SL2.csv,34,1,sand,28,c7,,,25.13,25.41
+SL2.csv,35,0,mud,7,,2 thin sand in this mud ,,25.41,25.48
+SL2.csv,36,1,sand,38,c7.1,,,25.48,25.86
+SL2.csv,37,0,mud,15,,,,25.86,26.01
+SL2.csv,38,1,sand,11,c8,lots a mud clasts at top,,26.01,26.12
+SL2.csv,39,0,mud,11,,,,26.12,26.23
+SL2.csv,40,1,sand,5,c9,mini load structures,,26.23,26.28
+SL2.csv,41,0,mud,26,,,,26.28,26.54
+SL2.csv,42,1,sand,6,,silty ,,26.54,26.6
+SL2.csv,43,0,mud,5,,,,26.6,26.65
+SL2.csv,44,1,sand,19,c10,,,26.65,26.84
+SL2.csv,45,0,mud,40,,one discontinuous sand near top,,26.84,27.24
+SL2.csv,46,1,sand,41,c11,ripples,,27.24,27.65
+SL2.csv,47,0,mud,4,,,,27.65,27.69
+SL2.csv,48,1,sand,36,c12,,,27.69,28.05
+SL2.csv,49,0,mud,1,,transitional from c12,,28.05,28.06
+SL2.csv,50,1,sand,49,c13,,,28.06,28.55
+SL2.csv,51,0,mud,188,,a few discontinuous sands about 50 cm above base,,28.55,30.43
+SL2.csv,52,1,sand,17,,,,30.43,30.6
+SL2.csv,53,0,mud,11,,,,30.6,30.71
+SL2.csv,54,2,other,16,,calcilutite, thickens to east until 32 cm,30.71,30.87

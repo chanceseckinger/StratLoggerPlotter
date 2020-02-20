@@ -1,0 +1,80 @@
+SectionName,BedNum,lith,lithName,thickness,BedID,Note,PictureName,base,top
+SL4.csv,1,1,sand,37,,,,0,0.37
+SL4.csv,2,1,sand,10,,,,0.37,0.47
+SL4.csv,3,0,mud,39,,,,0.47,0.86
+SL4.csv,4,1,sand,3,,,,0.86,0.89
+SL4.csv,5,0,mud,34,,,,0.89,1.23
+SL4.csv,6,1,sand,4,,semi rippled and bulbous ,,1.23,1.27
+SL4.csv,7,0,mud,34,,,,1.27,1.61
+SL4.csv,8,1,sand,21,,,,1.61,1.82
+SL4.csv,9,0,mud,59,,,,1.82,2.41
+SL4.csv,10,1,sand,2,,,,2.41,2.43
+SL4.csv,11,0,mud,7,,,,2.43,2.5
+SL4.csv,12,1,sand,20,,,,2.5,2.7
+SL4.csv,13,0,mud,3,,,,2.7,2.73
+SL4.csv,14,1,sand,21,,,,2.73,2.94
+SL4.csv,15,1,sand,18,,rippled,eastofboatlaunCH.csv_15,2.94,3.12
+SL4.csv,16,0,mud,8,,,,3.12,3.2
+SL4.csv,17,1,sand,27,,,,3.2,3.47
+SL4.csv,18,0,mud,10,,,,3.47,3.57
+SL4.csv,19,1,sand,30,,bed before is mud,,3.57,3.87
+SL4.csv,20,0,mud,30,,,,3.87,4.17
+SL4.csv,21,1,sand,1,,starved rippled,,4.17,4.18
+SL4.csv,22,0,mud,23,,,,4.18,4.41
+SL4.csv,23,1,sand,9,,,,4.41,4.5
+SL4.csv,24,0,mud,114,,some silt lenses,,4.5,5.64
+SL4.csv,25,1,sand,22,,,,5.64,5.86
+SL4.csv,26,2,other,26,,mtd,,5.86,6.12
+SL4.csv,27,1,sand,12,,,,6.12,6.24
+SL4.csv,28,0,mud,18,,,,6.24,6.42
+SL4.csv,29,1,sand,24,,climbing ripples,,6.42,6.66
+SL4.csv,30,1,sand,16,,climbing ripples,eastofboatlaunCH.csv_30,6.66,6.82
+SL4.csv,31,0,mud,13,,,,6.82,6.95
+SL4.csv,32,1,sand,24,,granual,,6.95,7.19
+SL4.csv,33,0,mud,4,,,,7.19,7.23
+SL4.csv,34,1,sand,19,,,,7.23,7.42
+SL4.csv,35,0,mud,7,,,,7.42,7.49
+SL4.csv,36,1,sand,37,,,eastofboatlaunCH.csv_36,7.49,7.86
+SL4.csv,37,0,mud,8,,,,7.86,7.94
+SL4.csv,38,1,sand,12,,,,7.94,8.06
+SL4.csv,39,0,mud,28,,,,8.06,8.34
+SL4.csv,40,1,sand,18,,,,8.34,8.52
+SL4.csv,41,0,mud,21,,,,8.52,8.73
+SL4.csv,42,1,sand,16,,,,8.73,8.89
+SL4.csv,43,0,mud,3,,,,8.89,8.92
+SL4.csv,44,1,sand,14,,,,8.92,9.06
+SL4.csv,45,0,mud,242,,,,9.06,11.48
+SL4.csv,46,1,sand,10,,,,11.48,11.58
+SL4.csv,47,0,mud,40,,sand lenses ,,11.58,11.98
+SL4.csv,48,2,other,3,,calcilutite ,,11.98,12.01
+SL4.csv,49,0,mud,18,,,,12.01,12.19
+SL4.csv,50,1,sand,5,,discontinuous ,,12.19,12.24
+SL4.csv,51,0,mud,48,,,,12.24,12.72
+SL4.csv,52,2,other,24,a1,calcilutite ,eastofboatlaunCH.csv_52,12.72,12.96
+SL4.csv,53,0,mud,23,,,,12.96,13.19
+SL4.csv,54,0,mud,15,,lots of sands ,,13.19,13.34
+SL4.csv,55,0,mud,20,,mud cross sets ,,13.34,13.54
+SL4.csv,56,2,other,21,a2,calcilutite ,,13.54,13.75
+SL4.csv,57,0,mud,23,,lots of sands beds,,13.75,13.98
+SL4.csv,58,0,mud,7,,real shale,,13.98,14.05
+SL4.csv,59,1,sand,6,,,,14.05,14.11
+SL4.csv,60,0,mud,28,,inclined surfaces,,14.11,14.39
+SL4.csv,61,1,sand,5,,,,14.39,14.44
+SL4.csv,62,0,mud,5,,,,14.44,14.49
+SL4.csv,63,1,sand,10,,,,14.49,14.59
+SL4.csv,64,0,mud,10,,,,14.59,14.69
+SL4.csv,65,1,sand,4,,,,14.69,14.73
+SL4.csv,66,0,mud,13,,,,14.73,14.86
+SL4.csv,67,1,sand,5,,,,14.86,14.91
+SL4.csv,68,0,mud,3,,,,14.91,14.94
+SL4.csv,69,1,sand,3,,,,14.94,14.97
+SL4.csv,70,0,mud,6,,,,14.97,15.03
+SL4.csv,71,1,sand,1,,,,15.03,15.04
+SL4.csv,72,0,mud,19,,,,15.04,15.23
+SL4.csv,73,1,sand,12,,lots of mud,,15.23,15.35
+SL4.csv,74,0,mud,15,,,,15.35,15.5
+SL4.csv,75,1,sand,7,,,,15.5,15.57
+SL4.csv,76,0,mud,5,,,,15.57,15.62
+SL4.csv,77,1,sand,16,,,,15.62,15.78
+SL4.csv,78,0,mud,47,,inclined ,eastofboatlaunCH.csv_78,15.78,16.25
+SL4.csv,79,2,other,35,a6,calcilutite ,,16.25,16.6

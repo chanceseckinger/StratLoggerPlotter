@@ -1,0 +1,233 @@
+SectionName,BedNum,lith,lithName,thickness,BedID,Note,PictureName,base,top
+SL3.csv,1,1,sand,17,,logged by Luke and Thomas ,faultblock.csv_1,0,0.17
+SL3.csv,2,1,sand,20,,,,0.17,0.37
+SL3.csv,3,1,sand,11,,,,0.37,0.48
+SL3.csv,4,1,sand,31,,ripples ,faultblock.csv_4,0.48,0.79
+SL3.csv,5,1,sand,31,,,,0.79,1.1
+SL3.csv,6,1,sand,40,,,faultblock.csv_6,1.1,1.5
+SL3.csv,7,0,mud,3,,,,1.5,1.53
+SL3.csv,8,1,sand,46,,,faultblock.csv_8,1.53,1.99
+SL3.csv,9,1,sand,29,,,faultblock.csv_9,1.99,2.28
+SL3.csv,10,2,other,271,,cover, beach cobbles,2.28,4.99
+SL3.csv,11,0,mud,6,,,,4.99,5.05
+SL3.csv,12,1,sand,6,,,,5.05,5.11
+SL3.csv,13,0,mud,8,,,,5.11,5.19
+SL3.csv,14,1,sand,5,,,,5.19,5.24
+SL3.csv,15,0,mud,7,,,,5.24,5.31
+SL3.csv,16,1,sand,6,,,,5.31,5.37
+SL3.csv,17,0,mud,1,,,,5.37,5.38
+SL3.csv,18,1,sand,8,,,,5.38,5.46
+SL3.csv,19,0,mud,2,,,,5.46,5.48
+SL3.csv,20,1,sand,3,,,,5.48,5.51
+SL3.csv,21,0,mud,4,,,,5.51,5.55
+SL3.csv,22,1,sand,2,,,,5.55,5.57
+SL3.csv,23,0,mud,45,,discontinuous  sands ,,5.57,6.02
+SL3.csv,24,1,sand,4,,,,6.02,6.06
+SL3.csv,25,0,mud,198,,,faultblock.csv_25,6.06,8.04
+SL3.csv,26,1,sand,4,,,,8.04,8.08
+SL3.csv,27,0,mud,12,,,,8.08,8.2
+SL3.csv,28,1,sand,2,,,,8.2,8.22
+SL3.csv,29,0,mud,6,,,,8.22,8.28
+SL3.csv,30,1,sand,6,,,,8.28,8.34
+SL3.csv,31,0,mud,56,,,,8.34,8.9
+SL3.csv,32,2,other,104,,big calculitite, 5 to 6 beds,8.9,9.94
+SL3.csv,33,0,mud,29,,flat mud,,9.94,10.23
+SL3.csv,34,0,mud,19,,crossed mud,,10.23,10.42
+SL3.csv,35,0,mud,61,,,,10.42,11.03
+SL3.csv,36,1,sand,5,,,,11.03,11.08
+SL3.csv,37,0,mud,202,,,faultblock.csv_37,11.08,13.1
+SL3.csv,38,1,sand,2,,,,13.1,13.12
+SL3.csv,39,0,mud,23,,23 logged by Luke and thomas,,13.12,13.35
+SL3.csv,40,1,sand,10,,,,13.35,13.45
+SL3.csv,41,0,mud,6,,,,13.45,13.51
+SL3.csv,42,1,sand,5,,,,13.51,13.56
+SL3.csv,43,0,mud,1,,,,13.56,13.57
+SL3.csv,44,1,sand,4,,,,13.57,13.61
+SL3.csv,45,0,mud,2,,,,13.61,13.63
+SL3.csv,46,2,other,12,,Lutite,,13.63,13.75
+SL3.csv,47,0,mud,93,,some silt beds,faultblock2.csv_9,13.75,14.68
+SL3.csv,48,2,other,13,,lutite ,faultblock2.csv_10,14.68,14.81
+SL3.csv,49,0,mud,42,,,,14.81,15.23
+SL3.csv,50,1,sand,15,,,,15.23,15.38
+SL3.csv,51,0,mud,86,,,,15.38,16.24
+SL3.csv,52,1,sand,4,,,,16.24,16.28
+SL3.csv,53,0,mud,37,,,,16.28,16.65
+SL3.csv,54,1,sand,14,,,,16.65,16.79
+SL3.csv,55,0,mud,13,,,,16.79,16.92
+SL3.csv,56,1,sand,4,,,,16.92,16.96
+SL3.csv,57,0,mud,45,,,,16.96,17.41
+SL3.csv,58,0,mud,90,,lots of sands 1 to 4 cm silts and sands ,,17.41,18.31
+SL3.csv,59,0,mud,25,,inclined mud,,18.31,18.56
+SL3.csv,60,1,sand,3,,,,18.56,18.59
+SL3.csv,61,0,mud,4,,,,18.59,18.63
+SL3.csv,62,1,sand,4,,,faultblock2.csv_24,18.63,18.67
+SL3.csv,63,0,mud,3,,,,18.67,18.7
+SL3.csv,64,1,sand,1,,,,18.7,18.71
+SL3.csv,65,0,mud,12,,,,18.71,18.83
+SL3.csv,66,1,sand,4,,,,18.83,18.87
+SL3.csv,67,0,mud,2,,,,18.87,18.89
+SL3.csv,68,1,sand,3,,,faultblock2.csv_30,18.89,18.92
+SL3.csv,69,0,mud,16,,,,18.92,19.08
+SL3.csv,70,1,sand,7,,,,19.08,19.15
+SL3.csv,71,0,mud,3,,,,19.15,19.18
+SL3.csv,72,1,sand,3,,,,19.18,19.21
+SL3.csv,73,0,mud,3,,,,19.21,19.24
+SL3.csv,74,1,sand,6,,very irregular top,faultblock2.csv_36,19.24,19.3
+SL3.csv,75,0,mud,3,,,,19.3,19.33
+SL3.csv,76,1,sand,1,,,,19.33,19.34
+SL3.csv,77,0,mud,10,,,,19.34,19.44
+SL3.csv,78,2,other,6,,lutitie,faultblock2.csv_40,19.44,19.5
+SL3.csv,79,0,mud,6,,,,19.5,19.56
+SL3.csv,80,1,sand,1,,,,19.56,19.57
+SL3.csv,81,0,mud,18,,,,19.57,19.75
+SL3.csv,82,1,sand,2,,,,19.75,19.77
+SL3.csv,83,0,mud,13,,inclined mud,,19.77,19.9
+SL3.csv,84,1,sand,6,,,,19.9,19.96
+SL3.csv,85,0,mud,11,,,,19.96,20.07
+SL3.csv,86,1,sand,3,,,,20.07,20.1
+SL3.csv,87,0,mud,24,,,,20.1,20.34
+SL3.csv,88,1,sand,2,,,,20.34,20.36
+SL3.csv,89,0,mud,2,,,,20.36,20.38
+SL3.csv,90,1,sand,2,,bed before was mud,,20.38,20.4
+SL3.csv,91,0,mud,22,,,,20.4,20.62
+SL3.csv,92,1,sand,1,,,,20.62,20.63
+SL3.csv,93,0,mud,23,,,,20.63,20.86
+SL3.csv,94,1,sand,3,,,,20.86,20.89
+SL3.csv,95,0,mud,4,,,,20.89,20.93
+SL3.csv,96,1,sand,2,,,,20.93,20.95
+SL3.csv,97,0,mud,8,,,,20.95,21.03
+SL3.csv,98,1,sand,8,,,,21.03,21.11
+SL3.csv,99,0,mud,14,,,,21.11,21.25
+SL3.csv,100,1,sand,3,,,,21.25,21.28
+SL3.csv,101,0,mud,83,,,,21.28,22.11
+SL3.csv,102,1,sand,6,,,,22.11,22.17
+SL3.csv,103,0,mud,5,,,,22.17,22.22
+SL3.csv,104,1,sand,7,,,,22.22,22.29
+SL3.csv,105,0,mud,20,,,,22.29,22.49
+SL3.csv,106,1,sand,8,,,,22.49,22.57
+SL3.csv,107,0,mud,6,,,,22.57,22.63
+SL3.csv,108,1,sand,2,,,,22.63,22.65
+SL3.csv,109,0,mud,19,,,,22.65,22.84
+SL3.csv,110,1,sand,17,,,,22.84,23.01
+SL3.csv,111,2,other,83,,big lutite,faultblock2.csv_73,23.01,23.84
+SL3.csv,112,0,mud,26,,,,23.84,24.1
+SL3.csv,113,1,sand,12,,,,24.1,24.22
+SL3.csv,114,0,mud,42,,,,24.22,24.64
+SL3.csv,115,1,sand,15,,,,24.64,24.79
+SL3.csv,116,0,mud,21,,,,24.79,25
+SL3.csv,117,1,sand,13,,,,25,25.13
+SL3.csv,118,0,mud,65,,,,25.13,25.78
+SL3.csv,119,1,sand,20,,pinch and swell,faultblock2.csv_81,25.78,25.98
+SL3.csv,120,0,mud,18,,,,25.98,26.16
+SL3.csv,121,1,sand,10,,big shale clast,faultblock2.csv_83,26.16,26.26
+SL3.csv,122,0,mud,80,,last bed was sand,,26.26,27.06
+SL3.csv,123,1,sand,11,,,,27.06,27.17
+SL3.csv,124,0,mud,32,,inclined mud,,27.17,27.49
+SL3.csv,125,2,other,4,,lutite ,,27.49,27.53
+SL3.csv,126,0,mud,168,,,faultblock2.csv_88,27.53,29.21
+SL3.csv,127,2,other,2,,lutite,,29.21,29.23
+SL3.csv,128,0,mud,25,,,,29.23,29.48
+SL3.csv,129,1,sand,15,,mud flames, grains up to upper coarse ,29.48,29.63
+SL3.csv,130,0,mud,7,,,,29.63,29.7
+SL3.csv,131,1,sand,1,,,,29.7,29.71
+SL3.csv,132,0,mud,6,,,,29.71,29.77
+SL3.csv,133,1,sand,41,,big mud clasts,,29.77,30.18
+SL3.csv,134,0,mud,18,,,,30.18,30.36
+SL3.csv,135,1,sand,5,,,,30.36,30.41
+SL3.csv,136,0,mud,83,,,,30.41,31.24
+SL3.csv,137,1,sand,3,,,,31.24,31.27
+SL3.csv,138,0,mud,18,,,,31.27,31.45
+SL3.csv,139,1,sand,6,,,,31.45,31.51
+SL3.csv,140,0,mud,4,,,,31.51,31.55
+SL3.csv,141,1,sand,3,,,,31.55,31.58
+SL3.csv,142,0,mud,9,,,,31.58,31.67
+SL3.csv,143,1,sand,25,,lots of mud clasts ,faultblock2.csv_105,31.67,31.92
+SL3.csv,144,0,mud,19,,,,31.92,32.11
+SL3.csv,145,1,sand,1,,,,32.11,32.12
+SL3.csv,146,0,mud,16,,,,32.12,32.28
+SL3.csv,147,1,sand,1,,,,32.28,32.29
+SL3.csv,148,0,mud,32,,,,32.29,32.61
+SL3.csv,149,1,sand,1,,,,32.61,32.62
+SL3.csv,150,0,mud,7,,,,32.62,32.69
+SL3.csv,151,1,sand,7,,,,32.69,32.76
+SL3.csv,152,0,mud,68,,,,32.76,33.44
+SL3.csv,153,1,sand,38,x1,uneven bi partite bed ,faultblock2.csv_115,33.44,33.82
+SL3.csv,154,0,mud,36,,,,33.82,34.18
+SL3.csv,155,1,sand,3,,,,34.18,34.21
+SL3.csv,156,0,mud,12,,,,34.21,34.33
+SL3.csv,157,1,sand,20,,muddy at top ,faultblock2.csv_119,34.33,34.53
+SL3.csv,158,0,mud,5,,,,34.53,34.58
+SL3.csv,159,1,sand,3,,,,34.58,34.61
+SL3.csv,160,0,mud,29,,,,34.61,34.9
+SL3.csv,161,1,sand,1,,,,34.9,34.91
+SL3.csv,162,0,mud,2,,,,34.91,34.93
+SL3.csv,163,1,sand,19,x2,bi partite ,,34.93,35.12
+SL3.csv,164,0,mud,51,,,,35.12,35.63
+SL3.csv,165,1,sand,7,,,,35.63,35.7
+SL3.csv,166,0,mud,7,,,,35.7,35.77
+SL3.csv,167,1,sand,10,,,,35.77,35.87
+SL3.csv,168,0,mud,10,,,,35.87,35.97
+SL3.csv,169,1,sand,8,x3,,,35.97,36.05
+SL3.csv,170,1,sand,25,x4,,,36.05,36.3
+SL3.csv,171,1,sand,23,x5,,,36.3,36.53
+SL3.csv,172,1,sand,28,x6,,,36.53,36.81
+SL3.csv,173,0,mud,15,,,,36.81,36.96
+SL3.csv,174,1,sand,29,x7,,,36.96,37.25
+SL3.csv,175,0,mud,38,,starved rips ,,37.25,37.63
+SL3.csv,176,1,sand,11,,,,37.63,37.74
+SL3.csv,177,0,mud,1,,,,37.74,37.75
+SL3.csv,178,1,sand,7,x8,bi partite,,37.75,37.82
+SL3.csv,179,0,mud,58,,,,37.82,38.4
+SL3.csv,180,1,sand,15,,sand mud sand,,38.4,38.55
+SL3.csv,181,0,mud,40,,,,38.55,38.95
+SL3.csv,182,1,sand,40,,,faultblock2.csv_144,38.95,39.35
+SL3.csv,183,0,mud,4,,,,39.35,39.39
+SL3.csv,184,1,sand,10,,,,39.39,39.49
+SL3.csv,185,0,mud,19,,,,39.49,39.68
+SL3.csv,186,1,sand,15,x11,,,39.68,39.83
+SL3.csv,187,0,mud,4,,,,39.83,39.87
+SL3.csv,188,1,sand,20,x12,,,39.87,40.07
+SL3.csv,189,0,mud,15,,,,40.07,40.22
+SL3.csv,190,1,sand,35,x13,,,40.22,40.57
+SL3.csv,191,0,mud,5,,,,40.57,40.62
+SL3.csv,192,1,sand,10,,,,40.62,40.72
+SL3.csv,193,0,mud,3,,,,40.72,40.75
+SL3.csv,194,1,sand,32,,climbing ripples,,40.75,41.07
+SL3.csv,195,0,mud,9,,,,41.07,41.16
+SL3.csv,196,1,sand,15,,,,41.16,41.31
+SL3.csv,197,0,mud,23,,,,41.31,41.54
+SL3.csv,198,1,sand,20,,bi partite,,41.54,41.74
+SL3.csv,199,0,mud,2,,,,41.74,41.76
+SL3.csv,200,1,sand,1,,,,41.76,41.77
+SL3.csv,201,0,mud,12,,,,41.77,41.89
+SL3.csv,202,1,sand,12,x16 or 18 ?,,,41.89,42.01
+SL3.csv,203,0,mud,203,,,,42.01,44.04
+SL3.csv,204,1,sand,3,,,,44.04,44.07
+SL3.csv,205,0,mud,50,,,,44.07,44.57
+SL3.csv,206,1,sand,12,,mud clasts,,44.57,44.69
+SL3.csv,207,0,mud,55,,,,44.69,45.24
+SL3.csv,208,1,sand,5,,,,45.24,45.29
+SL3.csv,209,0,mud,30,,,,45.29,45.59
+SL3.csv,210,1,sand,17,,muddy sand,,45.59,45.76
+SL3.csv,211,2,other,24,a1,lutite,,45.76,46
+SL3.csv,212,0,mud,23,,cross beded,,46,46.23
+SL3.csv,213,0,mud,16,,thin sands,,46.23,46.39
+SL3.csv,214,2,other,40,a2,lutite,,46.39,46.79
+SL3.csv,215,0,mud,5,,,,46.79,46.84
+SL3.csv,216,1,sand,7,,ripples base,,46.84,46.91
+SL3.csv,217,0,mud,8,,,,46.91,46.99
+SL3.csv,218,1,sand,1,,,,46.99,47
+SL3.csv,219,0,mud,10,,,,47,47.1
+SL3.csv,220,1,sand,5,,,,47.1,47.15
+SL3.csv,221,0,mud,24,,,,47.15,47.39
+SL3.csv,222,1,sand,4,4,,,47.39,47.43
+SL3.csv,223,0,mud,6,,,,47.43,47.49
+SL3.csv,224,1,sand,9,,,,47.49,47.58
+SL3.csv,225,0,mud,27,,,,47.58,47.85
+SL3.csv,226,1,sand,10,,,,47.85,47.95
+SL3.csv,227,0,mud,19,,,,47.95,48.14
+SL3.csv,228,1,sand,3,,,,48.14,48.17
+SL3.csv,229,0,mud,23,,,,48.17,48.4
+SL3.csv,230,1,sand,12,,,,48.4,48.52
+SL3.csv,231,0,mud,54,,inclined,,48.52,49.06
+SL3.csv,232,2,other,41,a6,lutite,,49.06,49.47

@@ -1,0 +1,193 @@
+SectionName,BedNum,lith,lithName,thickness,BedID,Note,PictureName,base,top
+SL5.csv,1,1,sand,18,x2,,lukeandtombiglogsection.csv_1,0,0.18
+SL5.csv,2,0,mud,68,,shale trail.csv,,0.18,0.86
+SL5.csv,3,1,sand,18,x3,,,0.86,1.04
+SL5.csv,4,0,mud,7,,,,1.04,1.11
+SL5.csv,5,1,sand,18,x4,,,1.11,1.29
+SL5.csv,6,1,sand,20,x5,climbing ripples, orange color,1.29,1.49
+SL5.csv,7,0,mud,10,,,,1.49,1.59
+SL5.csv,8,1,sand,28,x6,,,1.59,1.87
+SL5.csv,9,0,mud,17,,,,1.87,2.04
+SL5.csv,10,1,sand,25,x7,,lukeandtombiglogsection.csv_10,2.04,2.29
+SL5.csv,11,0,mud,43,,,,2.29,2.72
+SL5.csv,12,1,sand,13,,climbing ripples, silty,2.72,2.85
+SL5.csv,13,1,sand,8,x8,,lukeandtombiglogsection.csv_13,2.85,2.93
+SL5.csv,14,0,mud,61,,,,2.93,3.54
+SL5.csv,15,1,sand,4,,,,3.54,3.58
+SL5.csv,16,0,mud,48,,,,3.58,4.06
+SL5.csv,17,1,sand,26,x9,,,4.06,4.32
+SL5.csv,18,0,mud,30,,,,4.32,4.62
+SL5.csv,19,1,sand,9,x10,,,4.62,4.71
+SL5.csv,20,0,mud,21,,,,4.71,4.92
+SL5.csv,21,1,sand,16,x11,climbing ripples ,,4.92,5.08
+SL5.csv,22,0,mud,2,,,,5.08,5.1
+SL5.csv,23,1,sand,21,x12,climbing ripples ,,5.1,5.31
+SL5.csv,24,0,mud,9,,,,5.31,5.4
+SL5.csv,25,1,sand,44,x13,super coarse base, wild bed!,5.4,5.84
+SL5.csv,26,0,mud,9,,,,5.84,5.93
+SL5.csv,27,1,sand,23,x14,,,5.93,6.16
+SL5.csv,28,0,mud,15,,,,6.16,6.31
+SL5.csv,29,1,sand,19,x15,climbing rippled ,,6.31,6.5
+SL5.csv,30,0,mud,10,,,,6.5,6.6
+SL5.csv,31,1,sand,15,x16,,,6.6,6.75
+SL5.csv,32,0,mud,32,,,,6.75,7.07
+SL5.csv,33,1,sand,15,x17,,,7.07,7.22
+SL5.csv,34,0,mud,19,,,,7.22,7.41
+SL5.csv,35,1,sand,14,,unnamed at this time ,,7.41,7.55
+SL5.csv,36,0,mud,8,,,,7.55,7.63
+SL5.csv,37,1,sand,14,x18,climbing ripples and  convolute bedding ,,7.63,7.77
+SL5.csv,38,0,mud,251,,big mud section!,,7.77,10.28
+SL5.csv,39,1,sand,6,x19,,lukeandtombiglogsection2.csv_14,10.28,10.34
+SL5.csv,40,0,mud,41,,,,10.34,10.75
+SL5.csv,41,2,other,3,,calcilutite ,lukeandtombiglogsection2.csv_16,10.75,10.78
+SL5.csv,42,0,mud,60,,,,10.78,11.38
+SL5.csv,43,1,sand,2,,,,11.38,11.4
+SL5.csv,44,0,mud,6,,,,11.4,11.46
+SL5.csv,45,2,other,24,a1,calcilutite ,lukeandtombiglogsection2.csv_20,11.46,11.7
+SL5.csv,46,0,mud,53,,,,11.7,12.23
+SL5.csv,47,2,other,28,a2,,,12.23,12.51
+SL5.csv,48,0,mud,68,,contains thin sands, see photo,12.51,13.19
+SL5.csv,49,1,sand,4,,,,13.19,13.23
+SL5.csv,50,0,mud,6,,,,13.23,13.29
+SL5.csv,51,1,sand,8,,,,13.29,13.37
+SL5.csv,52,0,mud,10,,,,13.37,13.47
+SL5.csv,53,1,sand,3,,,,13.47,13.5
+SL5.csv,54,0,mud,15,,,,13.5,13.65
+SL5.csv,55,1,sand,5,,,,13.65,13.7
+SL5.csv,56,0,mud,52,,thin sands in mud interval ,lukeandtombiglogsection2.csv_31,13.7,14.22
+SL5.csv,57,1,sand,3,,,,14.22,14.25
+SL5.csv,58,0,mud,13,,,,14.25,14.38
+SL5.csv,59,1,sand,20,,ripples and convolute bedding ,,14.38,14.58
+SL5.csv,60,0,mud,50,,inclined mud,,14.58,15.08
+SL5.csv,61,2,other,40,,calcilutite ,,15.08,15.48
+SL5.csv,62,0,mud,40,,inclined mud,lukeandtombiglogsection2.csv_37,15.48,15.88
+SL5.csv,63,0,mud,65,,discontinuous starved ripple/convolute beds in thick shale section ,,15.88,16.53
+SL5.csv,64,1,sand,2,,variable thickness from 0 to 4 cm,,16.53,16.55
+SL5.csv,65,0,mud,47,,,,16.55,17.02
+SL5.csv,66,1,sand,9,,possible super critical flow structures. ,lukeandtombiglogsection2.csv_41,17.02,17.11
+SL5.csv,67,0,mud,5,,,,17.11,17.16
+SL5.csv,68,1,sand,5,,discontinuous and muddy sandstone ,,17.16,17.21
+SL5.csv,69,0,mud,27,,inclined mud,,17.21,17.48
+SL5.csv,70,1,sand,3,,,,17.48,17.51
+SL5.csv,71,0,mud,9,,,,17.51,17.6
+SL5.csv,72,1,sand,7,,,,17.6,17.67
+SL5.csv,73,0,mud,127,,,,17.67,18.94
+SL5.csv,74,1,sand,30,,base has a bipartite style bedding which transitions into a debrite,lukeandtombiglogsection2.csv_49,18.94,19.24
+SL5.csv,75,0,mud,52,,,,19.24,19.76
+SL5.csv,76,1,sand,6,,,,19.76,19.82
+SL5.csv,77,0,mud,17,,,,19.82,19.99
+SL5.csv,78,1,sand,3,,,,19.99,20.02
+SL5.csv,79,0,mud,49,,,,20.02,20.51
+SL5.csv,80,2,other,5,,calcilutite ,,20.51,20.56
+SL5.csv,81,0,mud,19,,silty stringers in mud section ,,20.56,20.75
+SL5.csv,82,1,sand,7,,variable thickness, bipartite bed,20.75,20.82
+SL5.csv,83,0,mud,62,,,,20.82,21.44
+SL5.csv,84,1,sand,8,b1,,,21.44,21.52
+SL5.csv,85,0,mud,5,,,,21.52,21.57
+SL5.csv,86,1,sand,10,b2,,,21.57,21.67
+SL5.csv,87,0,mud,5,,,,21.67,21.72
+SL5.csv,88,1,sand,20,b3,,lukeandtombiglogsection2.csv_63,21.72,21.92
+SL5.csv,89,0,mud,2,,,,21.92,21.94
+SL5.csv,90,1,sand,16,b4,,,21.94,22.1
+SL5.csv,91,0,mud,53,,,,22.1,22.63
+SL5.csv,92,1,sand,9,b5,,,22.63,22.72
+SL5.csv,93,0,mud,118,,,,22.72,23.9
+SL5.csv,94,1,sand,11,,,,23.9,24.01
+SL5.csv,95,0,mud,5,,,,24.01,24.06
+SL5.csv,96,1,sand,10,,,lukeandtombiglogsection2.csv_71,24.06,24.16
+SL5.csv,97,0,mud,4,,,,24.16,24.2
+SL5.csv,98,1,sand,11,,medium grained sand,,24.2,24.31
+SL5.csv,99,0,mud,7,,,,24.31,24.38
+SL5.csv,100,1,sand,44,,,,24.38,24.82
+SL5.csv,101,0,mud,1,,,,24.82,24.83
+SL5.csv,102,1,sand,17,,,,24.83,25
+SL5.csv,103,0,mud,52,,,,25,25.52
+SL5.csv,104,1,sand,18,,,,25.52,25.7
+SL5.csv,105,0,mud,6,,,,25.7,25.76
+SL5.csv,106,1,sand,10,,,,25.76,25.86
+SL5.csv,107,0,mud,11,,,,25.86,25.97
+SL5.csv,108,1,sand,15,,,,25.97,26.12
+SL5.csv,109,0,mud,4,,,,26.12,26.16
+SL5.csv,110,1,sand,8,,bipartite bed,,26.16,26.24
+SL5.csv,111,0,mud,5,,,,26.24,26.29
+SL5.csv,112,1,sand,35,,,,26.29,26.64
+SL5.csv,113,0,mud,36,,,,26.64,27
+SL5.csv,114,1,sand,12,,,,27,27.12
+SL5.csv,115,0,mud,5,,,,27.12,27.17
+SL5.csv,116,1,sand,5,,bipartite ,,27.17,27.22
+SL5.csv,117,0,mud,16,,,,27.22,27.38
+SL5.csv,118,1,sand,9,,,,27.38,27.47
+SL5.csv,119,0,mud,154,,possible inclined shale in middle ,lukeandtombiglogsection2.csv_94,27.47,29.01
+SL5.csv,120,1,sand,8,,,,29.01,29.09
+SL5.csv,121,0,mud,15,,,,29.09,29.24
+SL5.csv,122,1,sand,12,,discontinuous, starved ripples at top,29.24,29.36
+SL5.csv,123,0,mud,4,,,,29.36,29.4
+SL5.csv,124,1,sand,14,,,,29.4,29.54
+SL5.csv,125,0,mud,8,,,,29.54,29.62
+SL5.csv,126,1,sand,12,,,,29.62,29.74
+SL5.csv,127,0,mud,8,,,,29.74,29.82
+SL5.csv,128,1,sand,10,,,,29.82,29.92
+SL5.csv,129,0,mud,8,,,,29.92,30
+SL5.csv,130,0,mud,25,,silty base,,30,30.25
+SL5.csv,131,1,sand,12,,,,30.25,30.37
+SL5.csv,132,0,mud,13,,,,30.37,30.5
+SL5.csv,133,1,sand,25,,,,30.5,30.75
+SL5.csv,134,0,mud,1,,,lukeandtombiglogsection2.csv_109,30.75,30.76
+SL5.csv,135,1,sand,18,,convolute,,30.76,30.94
+SL5.csv,136,0,mud,9,,,,30.94,31.03
+SL5.csv,137,1,sand,6,,,,31.03,31.09
+SL5.csv,138,0,mud,3,,,,31.09,31.12
+SL5.csv,139,1,sand,5,,,,31.12,31.17
+SL5.csv,140,0,mud,14,,,,31.17,31.31
+SL5.csv,141,1,sand,112,c1,,,31.31,32.43
+SL5.csv,142,1,sand,20,c1,,,32.43,32.63
+SL5.csv,143,0,mud,3,c1,mud break,,32.63,32.66
+SL5.csv,144,1,sand,78,c1,,lukeandtombiglogsection3.csv_3,32.66,33.44
+SL5.csv,145,0,mud,44,,,,33.44,33.88
+SL5.csv,146,1,sand,3,,,,33.88,33.91
+SL5.csv,147,0,mud,20,,,,33.91,34.11
+SL5.csv,148,1,sand,25,,large mud clasts at top,,34.11,34.36
+SL5.csv,149,0,mud,75,,,,34.36,35.11
+SL5.csv,150,1,sand,9,,,,35.11,35.2
+SL5.csv,151,0,mud,20,,,,35.2,35.4
+SL5.csv,152,1,sand,7,,,,35.4,35.47
+SL5.csv,153,0,mud,19,,,,35.47,35.66
+SL5.csv,154,1,sand,4,,,,35.66,35.7
+SL5.csv,155,0,mud,16,,,,35.7,35.86
+SL5.csv,156,1,sand,9,,,,35.86,35.95
+SL5.csv,157,0,mud,47,,,,35.95,36.42
+SL5.csv,158,1,sand,3,,,,36.42,36.45
+SL5.csv,159,0,mud,4,,,,36.45,36.49
+SL5.csv,160,1,sand,1,,,,36.49,36.5
+SL5.csv,161,0,mud,81,,,,36.5,37.31
+SL5.csv,162,1,sand,9,,,,37.31,37.4
+SL5.csv,163,0,mud,9,,,,37.4,37.49
+SL5.csv,164,1,sand,25,,,lukeandtombiglogsection3.csv_23,37.49,37.74
+SL5.csv,165,0,mud,4,,,,37.74,37.78
+SL5.csv,166,1,sand,2,,,,37.78,37.8
+SL5.csv,167,0,mud,4,,,,37.8,37.84
+SL5.csv,168,1,sand,1,,,,37.84,37.85
+SL5.csv,169,0,mud,5,,,,37.85,37.9
+SL5.csv,170,1,sand,1,,,,37.9,37.91
+SL5.csv,171,0,mud,4,,,,37.91,37.95
+SL5.csv,172,1,sand,5,,,,37.95,38
+SL5.csv,173,0,mud,3,,,,38,38.03
+SL5.csv,174,1,sand,2,,,,38.03,38.05
+SL5.csv,175,0,mud,4,,,,38.05,38.09
+SL5.csv,176,1,sand,33,,coarse tail,,38.09,38.42
+SL5.csv,177,0,mud,41,,,,38.42,38.83
+SL5.csv,178,1,sand,5,,,,38.83,38.88
+SL5.csv,179,0,mud,11,,,,38.88,38.99
+SL5.csv,180,1,sand,38,,,lukeandtombiglogsection3.csv_39,38.99,39.37
+SL5.csv,181,0,mud,2,,,,39.37,39.39
+SL5.csv,182,1,sand,35,,climbing ripples,lukeandtombiglogsection3.csv_41,39.39,39.74
+SL5.csv,183,0,mud,2,,,,39.74,39.76
+SL5.csv,184,1,sand,50,,grading upward,,39.76,40.26
+SL5.csv,185,0,mud,4,,,,40.26,40.3
+SL5.csv,186,1,sand,4,,,,40.3,40.34
+SL5.csv,187,0,mud,178,,,,40.34,42.12
+SL5.csv,188,1,sand,8,,,,42.12,42.2
+SL5.csv,189,1,sand,6,,add to previous bed,,42.2,42.26
+SL5.csv,190,0,mud,7,,,,42.26,42.33
+SL5.csv,191,2,other,34,,lutite,,42.33,42.67
+SL5.csv,192,0,mud,100,,mud on top of lutite , end of section,42.67,43.67

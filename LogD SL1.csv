@@ -1,0 +1,141 @@
+SectionName,BedNum,lith,lithName,thickness,BedID,Note,PictureName,base,top
+SL1.csv,1,2,other,25,a1,,chance1.csv_1,0,0.25
+SL1.csv,2,0,mud,58,,,,0.25,0.83
+SL1.csv,3,2,other,39,a2,,chance1.csv_3,0.83,1.22
+SL1.csv,4,0,mud,17,,,,1.22,1.39
+SL1.csv,5,1,sand,4,,,,1.39,1.43
+SL1.csv,6,0,mud,12,,,,1.43,1.55
+SL1.csv,7,1,sand,5,,,,1.55,1.6
+SL1.csv,8,0,mud,32,,,,1.6,1.92
+SL1.csv,9,1,sand,10,a3,,chance1.csv_9,1.92,2.02
+SL1.csv,10,0,mud,14,,,,2.02,2.16
+SL1.csv,11,1,sand,4,,,,2.16,2.2
+SL1.csv,12,0,mud,16,,,,2.2,2.36
+SL1.csv,13,1,sand,3,,,,2.36,2.39
+SL1.csv,14,0,mud,4,,,,2.39,2.43
+SL1.csv,15,1,sand,4,,,,2.43,2.47
+SL1.csv,16,0,mud,12,,,,2.47,2.59
+SL1.csv,17,1,sand,4,,,,2.59,2.63
+SL1.csv,18,0,mud,31,,,,2.63,2.94
+SL1.csv,19,1,sand,3,,,,2.94,2.97
+SL1.csv,20,0,mud,12,,,,2.97,3.09
+SL1.csv,21,1,sand,9,,,,3.09,3.18
+SL1.csv,22,0,mud,46,,,,3.18,3.64
+SL1.csv,23,2,other,40,a6,,chance1.csv_23,3.64,4.04
+SL1.csv,24,0,mud,252,,,,4.04,6.56
+SL1.csv,25,1,sand,3,,,,6.56,6.59
+SL1.csv,26,0,mud,8,,,,6.59,6.67
+SL1.csv,27,1,sand,2,,,,6.67,6.69
+SL1.csv,28,0,mud,27,,,,6.69,6.96
+SL1.csv,29,1,sand,2,,,,6.96,6.98
+SL1.csv,30,0,mud,9,,,,6.98,7.07
+SL1.csv,31,1,sand,6,,,,7.07,7.13
+SL1.csv,32,0,mud,102,,,,7.13,8.15
+SL1.csv,33,1,sand,19,a7,,chance1.csv_33,8.15,8.34
+SL1.csv,34,0,mud,14,,,,8.34,8.48
+SL1.csv,35,0,mud,58,,,,8.48,9.06
+SL1.csv,36,1,sand,6,,,chance1.csv_36,9.06,9.12
+SL1.csv,37,0,mud,18,,,,9.12,9.3
+SL1.csv,38,1,sand,4,,,,9.3,9.34
+SL1.csv,39,0,mud,47,,,,9.34,9.81
+SL1.csv,40,2,other,5,a8,,chance1.csv_40,9.81,9.86
+SL1.csv,41,0,mud,111,,,,9.86,10.97
+SL1.csv,42,1,sand,14,b1,,chance1.csv_42,10.97,11.11
+SL1.csv,43,0,mud,5,,,,11.11,11.16
+SL1.csv,44,1,sand,13,b2,,,11.16,11.29
+SL1.csv,45,0,mud,5,,,,11.29,11.34
+SL1.csv,46,1,sand,17,b3,,,11.34,11.51
+SL1.csv,47,0,mud,3,,,,11.51,11.54
+SL1.csv,48,1,sand,13,b4,,,11.54,11.67
+SL1.csv,49,0,mud,50,,,,11.67,12.17
+SL1.csv,50,1,sand,11,b5,,,12.17,12.28
+SL1.csv,51,0,mud,106,,,,12.28,13.34
+SL1.csv,52,1,sand,32,,,,13.34,13.66
+SL1.csv,53,0,mud,11,,,,13.66,13.77
+SL1.csv,54,1,sand,20,,,,13.77,13.97
+SL1.csv,55,0,mud,16,,,,13.97,14.13
+SL1.csv,56,1,sand,11,,,,14.13,14.24
+SL1.csv,57,0,mud,83,,,,14.24,15.07
+SL1.csv,58,1,sand,9,,,,15.07,15.16
+SL1.csv,59,0,mud,6,,,,15.16,15.22
+SL1.csv,60,1,sand,15,,,,15.22,15.37
+SL1.csv,61,0,mud,16,,,,15.37,15.53
+SL1.csv,62,1,sand,11,,,,15.53,15.64
+SL1.csv,63,0,mud,5,,,,15.64,15.69
+SL1.csv,64,1,sand,30,b12,,,15.69,15.99
+SL1.csv,65,0,mud,34,,,,15.99,16.33
+SL1.csv,66,1,sand,13,b13,,,16.33,16.46
+SL1.csv,67,0,mud,8,,,,16.46,16.54
+SL1.csv,68,1,sand,13,,,,16.54,16.67
+SL1.csv,69,2,other,2,ash,pinches out 5 m to west,,16.67,16.69
+SL1.csv,70,0,mud,6,,,,16.69,16.75
+SL1.csv,71,1,sand,3,,,,16.75,16.78
+SL1.csv,72,0,mud,4,,,,16.78,16.82
+SL1.csv,73,1,sand,8,b9,,,16.82,16.9
+SL1.csv,74,0,mud,3,,,,16.9,16.93
+SL1.csv,75,1,sand,13,b10,mud clasts,,16.93,17.06
+SL1.csv,76,0,mud,10,,,,17.06,17.16
+SL1.csv,77,1,sand,1,,,,17.16,17.17
+SL1.csv,78,0,mud,2,,,,17.17,17.19
+SL1.csv,79,1,sand,10,b11,,,17.19,17.29
+SL1.csv,80,0,mud,4,,,,17.29,17.33
+SL1.csv,81,1,sand,33,b12,,,17.33,17.66
+SL1.csv,82,0,mud,35,,,,17.66,18.01
+SL1.csv,83,1,sand,11,b13,,,18.01,18.12
+SL1.csv,84,0,mud,9,,,,18.12,18.21
+SL1.csv,85,1,sand,11,b14,,,18.21,18.32
+SL1.csv,86,0,mud,20,,,,18.32,18.52
+SL1.csv,87,1,sand,9,,weird bed with mud clasts and thickness changes,,18.52,18.61
+SL1.csv,88,0,mud,29,,,,18.61,18.9
+SL1.csv,89,1,sand,1,,,,18.9,18.91
+SL1.csv,90,0,mud,110,,,,18.91,20.01
+SL1.csv,91,1,sand,17,,,,20.01,20.18
+SL1.csv,92,0,mud,4,,,,20.18,20.22
+SL1.csv,93,1,sand,13,,,,20.22,20.35
+SL1.csv,94,0,mud,2,,,,20.35,20.37
+SL1.csv,95,1,sand,15,b15,nice flutes,ThomasChanceTopPart.csv_27,20.37,20.52
+SL1.csv,96,0,mud,8,,,,20.52,20.6
+SL1.csv,97,1,sand,12,b15.1,,,20.6,20.72
+SL1.csv,98,0,mud,14,,,,20.72,20.86
+SL1.csv,99,1,sand,1,,,,20.86,20.87
+SL1.csv,100,0,mud,15,,,,20.87,21.02
+SL1.csv,101,1,sand,22,b15.3,lots of thickness change, photo taken about 15 m to west of section,21.02,21.24
+SL1.csv,102,0,mud,16,,,,21.24,21.4
+SL1.csv,103,1,sand,14,b16,,,21.4,21.54
+SL1.csv,104,0,mud,26,,,,21.54,21.8
+SL1.csv,105,1,sand,5,,,,21.8,21.85
+SL1.csv,106,0,mud,7,,,,21.85,21.92
+SL1.csv,107,1,sand,18,c1 base,,,21.92,22.1
+SL1.csv,108,0,mud,2,,,,22.1,22.12
+SL1.csv,109,1,sand,63,c1 top,,,22.12,22.75
+SL1.csv,110,0,mud,29,,c2 pinches out or is amalg with c1 just 10 m west of here, and has lutite clasts in this interval sometimes ,22.75,23.04
+SL1.csv,111,1,sand,13,c3,,,23.04,23.17
+SL1.csv,112,0,mud,23,,,,23.17,23.4
+SL1.csv,113,1,sand,7,c4,thickens dramatically 1 m to east and has lots of mud clasts. to west it also thickens and has funny mud clasts texture, pic of this ,23.4,23.47
+SL1.csv,114,0,mud,95,,,,23.47,24.42
+SL1.csv,115,1,sand,11,c5,nice flutes,,24.42,24.53
+SL1.csv,116,0,mud,35,,,,24.53,24.88
+SL1.csv,117,1,sand,9,,,,24.88,24.97
+SL1.csv,118,0,mud,33,,,,24.97,25.3
+SL1.csv,119,1,sand,8,c6,,,25.3,25.38
+SL1.csv,120,0,mud,50,,,,25.38,25.88
+SL1.csv,121,1,sand,36,c7,,,25.88,26.24
+SL1.csv,122,0,mud,7,,,,26.24,26.31
+SL1.csv,123,1,sand,30,c7.1,,,26.31,26.61
+SL1.csv,124,0,mud,14,,,,26.61,26.75
+SL1.csv,125,1,sand,11,c8,,,26.75,26.86
+SL1.csv,126,0,mud,13,,,,26.86,26.99
+SL1.csv,127,1,sand,2,c9,measured in a thin place, it thickens and has mud clasts both ways ,26.99,27.01
+SL1.csv,128,0,mud,10,,,,27.01,27.11
+SL1.csv,129,1,sand,19,c9.1,,,27.11,27.3
+SL1.csv,130,0,mud,25,,,,27.3,27.55
+SL1.csv,131,1,sand,6,c10,thin here, thickens both ways to about 20 cm ,27.55,27.61
+SL1.csv,132,0,mud,43,,,,27.61,28.04
+SL1.csv,133,1,sand,31,c11,,,28.04,28.35
+SL1.csv,134,0,mud,3,,,,28.35,28.38
+SL1.csv,135,1,sand,33,c12,,,28.38,28.71
+SL1.csv,136,1,sand,46,c13,base of this is sharp but c12 seems to have a gradational top, thus no mud in between ,28.71,29.17
+SL1.csv,137,0,mud,179,,4 or 5 thin 1 cm discontinuous beds near the top,,29.17,30.96
+SL1.csv,138,1,sand,16,,convoluted,,30.96,31.12
+SL1.csv,139,0,mud,7,,,,31.12,31.19
+SL1.csv,140,2,other,31,,calcilutite that is discontinuous, several m of shale above ,31.19,31.5
